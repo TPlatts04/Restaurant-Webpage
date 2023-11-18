@@ -1,0 +1,20 @@
+.home-title {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: overline;
+}
+
+.background {
+  width: 100%;
+  height: 1900px;
+  position: relative;
+  border: 1px red solid;
+  margin-left: auto;
+  margin-right: auto;
+  top: -530px;
+  background: linear-gradient(to right,#8A307F, #79A7D3, #6883BC );
+  z-index: -1;
+}
